@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit Button (Task)">467f74d1db4014108545ee71ca961985</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Edit</label>
+        <location>top</location>
+        <name>Edit</name>
+        <order>10</order>
+        <parent>0441659ddbc014108545ee71ca961944</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>jonatan.fors</sys_created_by>
+        <sys_created_on>2020-04-07 13:55:14</sys_created_on>
+        <sys_id>ec334a99db8414108545ee71ca9619d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit</sys_name>
+        <sys_package display_value="SKV Mobile" source="x_skatt_mobile">3c4e3051db4014108545ee71ca961940</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SKV Mobile">3c4e3051db4014108545ee71ca961940</sys_scope>
+        <sys_update_name>sys_sg_button_instance_ec334a99db8414108545ee71ca9619d3</sys_update_name>
+        <sys_updated_by>jonatan.fors</sys_updated_by>
+        <sys_updated_on>2020-04-07 13:55:14</sys_updated_on>
+        <table>task</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=ec334a99db8414108545ee71ca9619d3"/>
+</record_update>

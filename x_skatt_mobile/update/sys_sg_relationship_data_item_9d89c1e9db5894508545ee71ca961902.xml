@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_relationship_data_item">
+    <sys_sg_relationship_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Inventory Registry -&gt; Room</name>
+        <query_condition/>
+        <query_condition_script/>
+        <relationship>x_skatt_inventory_registry.room</relationship>
+        <sys_class_name>sys_sg_relationship_data_item</sys_class_name>
+        <sys_created_by>jonatan.fors</sys_created_by>
+        <sys_created_on>2020-04-20 14:39:03</sys_created_on>
+        <sys_id>9d89c1e9db5894508545ee71ca961902</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Inventory Registry -&gt; Room</sys_name>
+        <sys_package display_value="SKV Mobile" source="x_skatt_mobile">3c4e3051db4014108545ee71ca961940</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SKV Mobile">3c4e3051db4014108545ee71ca961940</sys_scope>
+        <sys_update_name>sys_sg_relationship_data_item_9d89c1e9db5894508545ee71ca961902</sys_update_name>
+        <sys_updated_by>jonatan.fors</sys_updated_by>
+        <sys_updated_on>2020-04-20 14:39:03</sys_updated_on>
+        <table>x_skatt_inventory_registry</table>
+        <table_related_to>x_skatt_infra_room</table_related_to>
+    </sys_sg_relationship_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=9d89c1e9db5894508545ee71ca961902"/>
+</record_update>

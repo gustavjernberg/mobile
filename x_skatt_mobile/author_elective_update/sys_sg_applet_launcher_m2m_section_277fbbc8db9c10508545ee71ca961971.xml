@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="DELETE">
+        <applet_launcher display_value="My Work">067f30d1db4014108545ee71ca961910</applet_launcher>
+        <order>40</order>
+        <section display_value="Ärenden">e37fbbc8db9c10508545ee71ca96196f</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>jonatan.fors</sys_created_by>
+        <sys_created_on>2020-04-16 12:01:35</sys_created_on>
+        <sys_id>277fbbc8db9c10508545ee71ca961971</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="SKV Mobile" source="x_skatt_mobile">3c4e3051db4014108545ee71ca961940</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SKV Mobile">3c4e3051db4014108545ee71ca961940</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_277fbbc8db9c10508545ee71ca961971</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-23 07:58:26</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SKV Mobile">3c4e3051db4014108545ee71ca961940</application>
+        <file_path/>
+        <instance_id>95d298d7db3ec0904d2bac44d496196c</instance_id>
+        <instance_name>dev100312</instance_name>
+        <name>sys_sg_applet_launcher_m2m_section_277fbbc8db9c10508545ee71ca961971</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section"><sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE"><applet_launcher display_value="My Work">067f30d1db4014108545ee71ca961910</applet_launcher><order>40</order><section display_value="Ärenden">e37fbbc8db9c10508545ee71ca96196f</section><sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name><sys_created_by>jonatan.fors</sys_created_by><sys_created_on>2020-04-16 12:01:35</sys_created_on><sys_id>277fbbc8db9c10508545ee71ca961971</sys_id><sys_mod_count>2</sys_mod_count><sys_name/><sys_package display_value="SKV Mobile" source="x_skatt_mobile">3c4e3051db4014108545ee71ca961940</sys_package><sys_policy/><sys_scope display_value="SKV Mobile">3c4e3051db4014108545ee71ca961940</sys_scope><sys_update_name>sys_sg_applet_launcher_m2m_section_277fbbc8db9c10508545ee71ca961971</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-23 07:58:26</sys_updated_on></sys_sg_applet_launcher_m2m_section></record_update>]]></payload>
+        <payload_hash>-58028449</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>fa5236ca2f1010105e92808cf699b6af</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-23 07:58:26</sys_created_on>
+        <sys_id>4afa4f1e2f9810105e92808cf699b6ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171a60b8b930000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-23 07:58:26</sys_updated_on>
+        <type>Applet Launcher Sections</type>
+        <update_guid>c2fa4f1e069810103cb6e7d02a21afae</update_guid>
+        <update_guid_history>c2fa4f1e069810103cb6e7d02a21afae:-58028449,169670b1ec98d4504b3eb9b5b3b13de8:2145409310,677fbbc8b19c1050ed8a104cdfd3ac72:-58028449</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-23 09:40:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_m2m_section">sys_sg_applet_launcher_m2m_section</sys_db_object>
+        <sys_id>a0c0c31c076e4c428e80293b2cebc144</sys_id>
+        <sys_metadata>277fbbc8db9c10508545ee71ca961971</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="SKV Mobile" source="x_skatt_mobile">3c4e3051db4014108545ee71ca961940</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SKV Mobile">3c4e3051db4014108545ee71ca961940</sys_scope>
+        <sys_scope_delete display_value="">17249164ba044e78a80fa0cc01778e10</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_277fbbc8db9c10508545ee71ca961971</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_m2m_section_277fbbc8db9c10508545ee71ca961971">4afa4f1e2f9810105e92808cf699b6ae</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-23 09:40:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

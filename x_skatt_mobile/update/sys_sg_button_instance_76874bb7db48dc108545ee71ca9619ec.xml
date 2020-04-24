@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit Inventoried Function">5e9c7ef7db0cdc10a60cee805b961933</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Inventerad</label>
+        <location>trailing_swipe</location>
+        <name>Inventerad</name>
+        <order>10</order>
+        <parent>66aea2f7dbc8dc10a60cee805b961999</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>jonatan.fors</sys_created_by>
+        <sys_created_on>2020-04-15 13:18:38</sys_created_on>
+        <sys_id>76874bb7db48dc108545ee71ca9619ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Inventerad</sys_name>
+        <sys_package display_value="SKV Mobile" source="x_skatt_mobile">3c4e3051db4014108545ee71ca961940</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SKV Mobile">3c4e3051db4014108545ee71ca961940</sys_scope>
+        <sys_update_name>sys_sg_button_instance_76874bb7db48dc108545ee71ca9619ec</sys_update_name>
+        <sys_updated_by>jonatan.fors</sys_updated_by>
+        <sys_updated_on>2020-04-15 13:18:38</sys_updated_on>
+        <table>x_skatt_inventory_scheduled</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=76874bb7db48dc108545ee71ca9619ec"/>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="My Work">067f30d1db4014108545ee71ca961910</applet_launcher>
+        <order>10</order>
+        <section display_value="Inv">53559f2ddb4c54108545ee71ca96194c</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>jonatan.fors</sys_created_by>
+        <sys_created_on>2020-04-08 14:32:42</sys_created_on>
+        <sys_id>93559f2ddb4c54108545ee71ca96194e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="SKV Mobile" source="x_skatt_mobile">3c4e3051db4014108545ee71ca961940</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SKV Mobile">3c4e3051db4014108545ee71ca961940</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_93559f2ddb4c54108545ee71ca96194e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-23 07:58:26</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

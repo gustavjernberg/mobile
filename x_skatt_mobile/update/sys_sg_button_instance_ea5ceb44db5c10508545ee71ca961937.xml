@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit Inventory">e9e88f3bdb48dc108545ee71ca9619ea</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Edit</label>
+        <location>top</location>
+        <name>Edit</name>
+        <order>10</order>
+        <parent>9a53dba9db4c54108545ee71ca961944</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>jonatan.fors</sys_created_by>
+        <sys_created_on>2020-04-16 10:37:57</sys_created_on>
+        <sys_id>ea5ceb44db5c10508545ee71ca961937</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Edit</sys_name>
+        <sys_package display_value="SKV Mobile" source="x_skatt_mobile">3c4e3051db4014108545ee71ca961940</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SKV Mobile">3c4e3051db4014108545ee71ca961940</sys_scope>
+        <sys_update_name>sys_sg_button_instance_ea5ceb44db5c10508545ee71ca961937</sys_update_name>
+        <sys_updated_by>jonatan.fors</sys_updated_by>
+        <sys_updated_on>2020-04-17 12:04:03</sys_updated_on>
+        <table>x_skatt_inventory_scheduled</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=ea5ceb44db5c10508545ee71ca961937"/>
+</record_update>

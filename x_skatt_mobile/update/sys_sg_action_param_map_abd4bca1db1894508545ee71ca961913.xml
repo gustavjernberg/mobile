@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Inventory">e9e88f3bdb48dc108545ee71ca9619ea</button>
+        <item_parameter display_value="room">5e5e64e9dbd494508545ee71ca961988</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>jonatan.fors</sys_created_by>
+        <sys_created_on>2020-04-20 13:07:17</sys_created_on>
+        <sys_id>abd4bca1db1894508545ee71ca961913</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5e5e64e9dbd494508545ee71ca961988</sys_name>
+        <sys_package display_value="SKV Mobile" source="x_skatt_mobile">3c4e3051db4014108545ee71ca961940</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SKV Mobile">3c4e3051db4014108545ee71ca961940</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_abd4bca1db1894508545ee71ca961913</sys_update_name>
+        <sys_updated_by>jonatan.fors</sys_updated_by>
+        <sys_updated_on>2020-04-20 13:07:17</sys_updated_on>
+        <ui_parameter display_value="Room">b1a478a1db1894508545ee71ca9619cf</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Edit Inventory Action</name>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>gustav.jernberg</sys_created_by>
+        <sys_created_on>2020-04-15 12:32:33</sys_created_on>
+        <sys_id>d4dcb6f7db0cdc10a60cee805b9619ee</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>Edit Inventory Action</sys_name>
+        <sys_package display_value="SKV Mobile" source="x_skatt_mobile">3c4e3051db4014108545ee71ca961940</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SKV Mobile">3c4e3051db4014108545ee71ca961940</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_d4dcb6f7db0cdc10a60cee805b9619ee</sys_update_name>
+        <sys_updated_by>jonatan.fors</sys_updated_by>
+        <sys_updated_on>2020-04-21 07:33:36</sys_updated_on>
+        <table>x_skatt_inventory_registry</table>
+        <template>state={{State}}^room={{room}}^inventoried_by={{UserId}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=d4dcb6f7db0cdc10a60cee805b9619ee"/>
+</record_update>

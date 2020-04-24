@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Jump to Scan">4eb9dca1db9494508545ee71ca961917</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Skanna</label>
+        <location>footer</location>
+        <name>Skanna</name>
+        <order>10</order>
+        <parent>29421b69db4c54108545ee71ca96197b</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-23 10:14:40</sys_created_on>
+        <sys_id>712aefde2fd810105e92808cf699b6bd</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Skanna</sys_name>
+        <sys_package display_value="SKV Mobile" source="x_skatt_mobile">3c4e3051db4014108545ee71ca961940</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SKV Mobile">3c4e3051db4014108545ee71ca961940</sys_scope>
+        <sys_update_name>sys_sg_button_instance_712aefde2fd810105e92808cf699b6bd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-23 10:21:47</sys_updated_on>
+        <table>x_skatt_inventory_task</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=712aefde2fd810105e92808cf699b6bd"/>
+</record_update>

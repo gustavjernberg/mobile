@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_related_lists_screen">
+    <sys_sg_related_lists_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>background</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon/>
+        <name>Related List</name>
+        <roles_override/>
+        <show_count>true</show_count>
+        <sys_class_name>sys_sg_related_lists_screen</sys_class_name>
+        <sys_created_by>jonatan.fors</sys_created_by>
+        <sys_created_on>2020-04-16 11:39:08</sys_created_on>
+        <sys_id>f65abb44db9c10508545ee71ca961992</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Related List</sys_name>
+        <sys_package display_value="SKV Mobile" source="x_skatt_mobile">3c4e3051db4014108545ee71ca961940</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SKV Mobile">3c4e3051db4014108545ee71ca961940</sys_scope>
+        <sys_update_name>sys_sg_related_lists_screen_f65abb44db9c10508545ee71ca961992</sys_update_name>
+        <sys_updated_by>jonatan.fors</sys_updated_by>
+        <sys_updated_on>2020-04-21 08:40:20</sys_updated_on>
+        <table>task</table>
+    </sys_sg_related_lists_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=f65abb44db9c10508545ee71ca961992"/>
+</record_update>

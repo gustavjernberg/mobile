@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <data_item display_value="Users Master">60d8c991db8014108545ee71ca96197b</data_item>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="My profile Icon">ff1a0915db8014108545ee71ca9619ac</icon>
+        <item_view display_value="My profile Header Item View">3b1ac915db8014108545ee71ca96198d</item_view>
+        <name>My profile</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>jonatan.fors</sys_created_by>
+        <sys_created_on>2020-04-07 09:45:52</sys_created_on>
+        <sys_id>731ac915db8014108545ee71ca961990</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>My profile</sys_name>
+        <sys_package display_value="SKV Mobile" source="x_skatt_mobile">3c4e3051db4014108545ee71ca961940</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SKV Mobile">3c4e3051db4014108545ee71ca961940</sys_scope>
+        <sys_update_name>sys_sg_form_screen_731ac915db8014108545ee71ca961990</sys_update_name>
+        <sys_updated_by>jonatan.fors</sys_updated_by>
+        <sys_updated_on>2020-04-07 09:53:27</sys_updated_on>
+        <table>sys_user</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=731ac915db8014108545ee71ca961990"/>
+</record_update>
